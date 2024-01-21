@@ -2,9 +2,9 @@
 <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
 
 
-- 🔭 I’m currently working on DSA
+- 🔭 I’m currently working on MERN
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love Public Speaking
+- ⚡ Fun fact: I love Public speaking
 <br>
 
 
